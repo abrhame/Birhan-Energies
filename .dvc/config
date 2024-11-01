@@ -1,0 +1,6 @@
+[core]
+    remote = local-storage
+[cache]
+    dir = /home/abrham/Documents/kifiya/storage
+['remote "local-storage"']
+    url = /home/abrham/Documents/kifiya/storage
